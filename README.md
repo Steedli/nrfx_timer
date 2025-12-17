@@ -7,13 +7,16 @@ The sample demonstrates a basic functionality of the nrfx_timer driver in the Ti
 The sample supports the following development kits:
 
 
-| **Board**           | **Support** |
-|---------------------|:-----------:|
-| nrf52dk_nrf52832    |     Yes     |
-| nrf52833dk_nrf52833 |     Yes     |
-| nrf52840dk_nrf52840 |     Yes     |
-| nrf5340dk_nrf5340   |     Yes     |
-| nrf9160dk_nrf9160   |     Yes     |
+| **Board**                          | **Support** |
+|------------------------------------|:-----------:|
+| nrf52dk_nrf52832                   |     Yes     |
+| nrf52833dk_nrf52833                |     Yes     |
+| nrf52840dk_nrf52840                |     Yes     |
+| nrf5340dk_nrf5340                  |     Yes     |
+| nrf9160dk_nrf9160                  |     Yes     |
+| nrf54l15dk_nrf54l15_cpuapp         |     Yes     |
+| nrf54h20dk_nrf54h20_cpuapp         |     Yes     |
+| nrf54h20dk_nrf54h20_cpurad         |     Yes     |
 
 ## Overview
 
